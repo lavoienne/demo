@@ -1,4 +1,0 @@
-#LICENSE
-
-#APACHE 2.0
-#GITHUB 3.2
